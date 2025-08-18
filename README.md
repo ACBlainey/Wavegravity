@@ -1,3 +1,7 @@
+***** Original datasets lost ! supply own sourced dat for testing models. 6 systems were used for data fitting and model refinment, assume any 0% planetary error results for real data correlate to part of that data fitting from those systems (eg expect for some 0% error objects in sol, proxima centuri etc). 
+thesis is work in progress. Author is an independent researcher and is unafilliated. *****
+
+
 # Unified Wave-Based Theory of Gravity
 
 ## Overview
@@ -50,7 +54,7 @@ Blainey, A. C.<sup>1</sup> (2025). *A Unified Wave-Based Theory of Gravity: Atom
 - Hees et al. (2019). *A&A*, 624, A59.
 
 ## Contact
-For issues or questions, open a GitHub issue or contact the author.
+For issues or questions, open a GitHub issue or contact the author. ABlainey@aol.com
 
 ---
 
