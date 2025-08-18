@@ -1,4 +1,4 @@
-***** Original datasets lost ! supply own sourced data for testing models. 6 systems were used for data fitting and model refinment, assume any 0% planetary error results for real data correlate to part of that data fitting from those systems (eg expect for some 0% error objects in sol, proxima centuri etc). 
+***** Original datasets lost ! supply own sourced data for testing models. 6 systems were used for data fitting and model refinement, assume any 0% planetary error results for real data correlate to part of that data fitting from those systems (eg expect for some 0% error objects in sol, proxima centuri etc). 
 thesis is work in progress. Author is an independent researcher and is unafilliated. *****
 
 
