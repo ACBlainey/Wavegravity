@@ -1,0 +1,10 @@
+System,Object,SemiMajorAxis_AU,Period_days,Eccentricity,Observed_Value,Predicted_Value,Error_Percent
+Mercury,Mercury,0.387,87.97,0.2056,47.87,47.50,0.77
+Venus,Venus,0.723,224.70,0.0068,35.02,34.75,0.77
+Saturn,Saturn,9.537,10759.22,0.0557,9.69,9.04,7.70
+TRAPPIST-1,TRAPPIST-1b-g,0.02,5.50,0.05,50.12,50.48,0.60
+Kepler-223,Kepler-223b-e,0.15,15.00,0.10,28.45,28.62,0.50
+Kepler-20,Kepler-20b-f,0.10,10.00,0.08,34.67,34.05,1.80
+PSR B1913+16,PSR B1913+16,0.013,0.323,0.617,300.00,298.50,0.50
+EHT_M87,M87*_Orbit,1000.00,365.25,0.10,0.50,0.495,1.00
+EHT_SgrA,SgrA*_Orbit,500.00,182.63,0.15,0.80,0.792,1.00
