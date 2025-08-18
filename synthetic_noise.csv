@@ -1,0 +1,10 @@
+Object,Parameter,True_Value,Observed_Value,Noise_Percent
+Mercury,Velocity_km_s,47.87,47.90,0.06
+Venus,Velocity_km_s,35.02,34.98,-0.11
+Saturn,Velocity_km_s,9.69,9.72,0.31
+TRAPPIST-1b-g,Velocity_km_s,50.12,50.25,0.26
+Kepler-223b-e,Velocity_km_s,28.45,28.30,-0.53
+Kepler-20b-f,Velocity_km_s,34.67,34.50,-0.49
+PSR B1913+16,Velocity_km_s,300.00,299.85,-0.05
+M87_Orbit,Velocity_km_s,0.50,0.502,0.40
+SgrA_Orbit,Velocity_km_s,0.80,0.798,-0.25
