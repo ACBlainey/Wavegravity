@@ -56,3 +56,4 @@ Aspect et al. (2020). Nature, 580, 189–192.
 Wang et al. (2024). ApJ, 965, 108.
 Hees et al. (2019). A&A, 624, A59.
 
+Alexancer C Blainey aka Alex Blainey prior works referenced at https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
