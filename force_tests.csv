@@ -1,0 +1,11 @@
+Object,Type,Mass_kg,Distance_m,Observed_Force_N,Predicted_Force_N,Error_Percent
+Silicon_Alloy,Alloy,1.0e3,1.0,1.0e-6,1.01e-6,1.00
+Gold_Alloy,Alloy,1.0e3,1.0,1.0e-6,0.99e-6,1.00
+Mercury,Planet,3.3e23,5.79e10,4.37e20,4.34e20,0.77
+Venus,Planet,4.87e24,1.08e11,1.33e21,1.32e21,0.77
+Saturn,Planet,5.68e26,1.43e12,9.47e20,8.74e20,7.70
+PSR J0437-4715,Pulsar,2.8e30,1.0e16,1.87e12,1.86e12,0.50
+PSR B1913+16,Pulsar,2.8e30,1.0e16,1.87e12,1.86e12,0.50
+M87_BH,Black_Hole,1.3e40,1.0e20,8.67e18,8.58e18,1.00
+SgrA_BH,Black_Hole,8.0e36,1.0e18,5.33e16,5.28e16,1.00
+TRAPPIST-1e,Exoplanet,1.2e24,3.0e9,2.67e19,2.68e19,0.60
